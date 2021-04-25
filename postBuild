@@ -1,0 +1,3 @@
+#!/bin/bash
+
+wget -q -O ralu.loci.csv https://github.com/hhwagner1/LandGenCourse/tree/master/data
